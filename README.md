@@ -18,11 +18,10 @@ Performed a weather check on each of the cities using a series of successive API
 Included a print log of each city as it's being processed with the city number and city name.
 Saved both a CSV of all data retrieved and png images for each scatter plot.
 
-![Temperature (F) vs. Latitude](Images/latvstemp.png)
+![Temperature (F) vs. Latitude](Images/latvstemp.png)    |    ![Humidity (%) vs. Latitude](Images/latvshum.png)
 
-![Humidity (%) vs. Latitude](Images/latvshum.png)
 
-![Cloudiness (%) vs. Latitude](Images/latvscloud.png)
+![Cloudiness (%) vs. Latitude](Images/latvscloud.png)    |    ![Wind Speed (mph) vs. Latitude](Images/latvsws.png)
 
-![Wind Speed (mph) vs. Latitude](Images/latvsws.png)
+
 
