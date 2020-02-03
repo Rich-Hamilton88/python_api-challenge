@@ -1,4 +1,4 @@
-# OpenWeather API Project
+# OpenWeather Python API Project
 
 The purpose of this project was to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. Randomly selected the cities to produce the results.
 
