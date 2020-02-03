@@ -24,5 +24,5 @@ Saved both a CSV of all data retrieved and png images for each scatter plot.
 
 ![Cloudiness (%) vs. Latitude](Images/latvscloud.png)
 
-![Wind Speed (mph) vs. Latitude](Images/latvsws.jpg)
+![Wind Speed (mph) vs. Latitude](Images/latvsws.png)
 
